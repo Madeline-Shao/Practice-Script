@@ -1,3 +1,4 @@
+%@author: Madeline Shao
 %slide1
 %Vector = [1:100]
 Vector=zeros(1,100);
